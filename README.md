@@ -10,8 +10,15 @@ Saída
 Para cada caso de teste, imprima a quantidade de kgs de trigo que o monge esperava receber.
 
  
-Exemplo de Entrada	Exemplo de Saída
+Exemplo de Entrada
 3				
-7				0 Kg
-19				21 Kg
-15				1 Kg
+7
+19
+15
+
+Exemplo de saída
+0 Kg
+21 Kg
+1 Kg
+
+Resolução utiliza fórmula para encontrar termo de uma Progressão Geométrica.
